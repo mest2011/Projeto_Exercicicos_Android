@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quiz - Qual é o pais...</string>
+    <string name="que_pais">Que país é este?</string>
+    <string name="ranking">Ranking</string>
+</resources>

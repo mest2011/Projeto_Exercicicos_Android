@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Quiz - Descubra o pais que usa essa bandeira'
